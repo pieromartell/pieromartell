@@ -23,25 +23,10 @@ Hi, I'm Piero Sebastian Martell Falcon, a front-end web developer from Peru.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### :chart_with_upwards_trend: GitHub Stats:
-<p style="margin: 100px;"><img align="left" float= "left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pieromartell&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pieromartell" /></p>
-
+<br>
+<p ><img align="left" float= "left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pieromartell&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pieromartell" /></p>
+<br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pieromartell&show_icons=true&theme=dracula&locale=en" alt="pieromartell" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pieromartell&theme=dark" alt="pieromartell" /></p>
-
-
-<!--
-**pieromartell/pieromartell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

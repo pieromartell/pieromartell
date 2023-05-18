@@ -23,7 +23,7 @@ Hi, I'm Piero Sebastian Martell Falcon, a front-end web developer from Peru.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### :chart_with_upwards_trend: GitHub Stats:
-<p><img align="left" float= "left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pieromartell&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pieromartell" /></p>
+<p style="margin: 100px;"><img align="left" float= "left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pieromartell&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pieromartell" /></p>
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pieromartell&show_icons=true&theme=dracula&locale=en" alt="pieromartell" /></p>

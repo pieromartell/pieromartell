@@ -24,9 +24,9 @@ Hi, I'm Piero Sebastian Martell Falcon, a front-end web developer from Peru.
 
 ### :chart_with_upwards_trend: GitHub Stats:
 <center>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pieromartell&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="pieromartell" /></p>
+<p><img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pieromartell&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="pieromartell" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pieromartell&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="pieromartell" /></p>
+<p>&nbsp;<img a src="https://github-readme-stats.vercel.app/api?username=pieromartell&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="pieromartell" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pieromartell&theme=dark" alt="pieromartell" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=pieromartell&theme=dark" alt="pieromartell" /></p>
 </center>
